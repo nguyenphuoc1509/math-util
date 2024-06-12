@@ -9,8 +9,15 @@ package org.giaolang.math.util.main;
  * @author DELL
  */
 public class Main {
+<<<<<<< HEAD
     //this method is written in local
     public static void SayHiFromLocal() {
+=======
+
+    //this method is written in directly in server to simulate
+    //the work of another team member, he uploads code before me
+    public static void SayHiFromServer() {
+>>>>>>> 10b726104001257ed88dd7ca39104028869a7a66
         
     }
     public static void main(String[] args) {
